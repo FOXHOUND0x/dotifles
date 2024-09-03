@@ -438,7 +438,7 @@
 	"editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
 
 	// Configures font ligatures or font features. Can be either a boolean to enable/disable ligatures or a string for the value of the CSS 'font-feature-settings' property.
-	"editor.fontLigatures": false,
+	"editor.fontLigatures": true,
 
 	// Controls the font size in pixels.
 	"editor.fontSize": 15,
